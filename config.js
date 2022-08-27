@@ -1,22 +1,22 @@
 //Ini untuk setting Bot//
 
 //『 Utama 』 //
-global.owner = ['6282xxxxxx'] 
-global.mods = ['6282xxxxxx'] 
-global.prems = ['6282xxxxxx'] 
+global.owner = ['6281384200380'] 
+global.mods = ['6281384200380'] 
+global.prems = ['6281384200380'] 
 
 //『 Info Owner 』 //
-global.nameowner = '⫹⫺ Owner'
-global.numberowner = '6282xxxxxx'
-global.instagram = 'https://instagram.com/prm2.0'
-global.github = 'https://github.com/BOTCAHX'
-global.dana = '6282xxxxxx'
-global.pulsa = '6282xxxxxx'
-global.gopay = ''
+global.nameowner = '⫹⫺ Dhykkz'
+global.numberowner = '6281384200380'
+global.instagram = 'https://instagram.com/dhykkkz'
+global.github = 'https://github.com/SDhyka'
+global.dana = '6281384200380'
+global.pulsa = '6281384200380'
+global.gopay = '6281384200380'
 
 //『 Info Bot 』//
-global.namebot = 'R-txzyMd'
-global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
+global.namebot = 'Ayyna-R'
+global.gc = 'https://chat.whatsapp.com/Daqh39CFd1I0WmuOqg73Ar'
 global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
