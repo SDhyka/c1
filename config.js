@@ -6,7 +6,7 @@ global.mods = ['6281384200380']
 global.prems = ['6281384200380'] 
 
 //『 Info Owner 』 //
-global.nameowner = '⫹⫺ Dhykkz'
+global.nameowner = '⫹⫺ Dhykkz「Owner」'
 global.numberowner = '6281384200380'
 global.instagram = 'https://instagram.com/dhykkkz'
 global.github = 'https://github.com/SDhyka'
@@ -25,10 +25,10 @@ global.fotonya1 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-stu
 global.fotonya2 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© R-TXZY-MD'
+global.wm = '© Aynaa-MD2'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
+global.wm2 = '⫹⫺ Aynaa-MD²'
+global.wm3 = '© Aynaa-MD²'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -39,8 +39,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
-global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.packname = '@Ayynaa'
+global.author = 'Punya Ayna Kak ><'
 
 //『 Apikey 』 //
 global.APIs = { // API Prefix
